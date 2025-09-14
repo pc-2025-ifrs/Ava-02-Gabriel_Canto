@@ -1,0 +1,14 @@
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\bin\Debug\net9.0\fracao.exe
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\bin\Debug\net9.0\fracao.deps.json
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\bin\Debug\net9.0\fracao.runtimeconfig.json
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\bin\Debug\net9.0\fracao.dll
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\bin\Debug\net9.0\fracao.pdb
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.AssemblyInfoInputs.cache
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.AssemblyInfo.cs
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.csproj.CoreCompileInputs.cache
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.dll
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\refint\fracao.dll
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.pdb
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\fracao.genruntimeconfig.cache
+C:\C4V4L0_D3_TR0I4.EXE\IFRS\4 ano\cooporativa\c#\fracao\obj\Debug\net9.0\ref\fracao.dll
